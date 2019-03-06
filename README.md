@@ -1,2 +1,2 @@
-# curso_iniciante_api_nodejs_aula03
-Curso Iniciante de API Nodejs + Express + Mongo - Aula 03
+# Nodejs API Básico - Aula 3 - Conectando mongodb com mongoose
+Primeiras configurações do mongodb e do mongoose.
